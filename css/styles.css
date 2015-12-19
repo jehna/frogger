@@ -1,0 +1,20 @@
+.frog {
+    width: 100px;
+    height: 100px;
+    background: #ffff00;
+    position: absolute;
+    bottom: 0;
+}
+
+.car {
+    width: 150px;
+    height: 100px;
+    background: #0000FF;
+    position: absolute;
+    left: 205px;
+}
+
+.board {
+    border: 3px solid #000;
+    position: relative;
+}
